@@ -5,3 +5,6 @@ outputs/
 data/processed/
 .venv/
 .vscode/
+checkpoints/
+*.pth
+!models/best_model.pth
